@@ -7,22 +7,19 @@
 
 ## 安裝
 
-### Claude Code
+### Claude Code CLI
 
 ```
-/plugin marketplace add <your-github-repo>
-/plugin install willy-clinical-tools
-```
-
-或從本地安裝：
-
-```
-/plugin install /Users/weiyu/willy-clinical-tools
+/plugin marketplace add b8301122-prog/willy-clinical-tools
+/plugin install willy-clinical-tools@willy-clinical-tools
 ```
 
 ### Claude Chat / Cowork
 
-透過 [claude.com/plugins](https://claude.com/plugins) 安裝同一個 plugin。
+到 [claude.com/plugins](https://claude.com/plugins) → Add custom plugin → 貼 URL：
+```
+https://github.com/b8301122-prog/willy-clinical-tools
+```
 
 ## 結構
 
