@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "willy-clinical-tools",
+  "description": "Willy 個人 plugin marketplace：跨平台臨床與簡報工具",
+  "owner": {
+    "name": "Willy",
+    "email": "b8301122@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "willy-clinical-tools",
+      "description": "ICD-10-CM 查碼（台灣門診情境）+ 簡報設計規範（基於《你的簡報就是比AI強》）",
+      "source": ".",
+      "category": "productivity"
+    }
+  ]
+}

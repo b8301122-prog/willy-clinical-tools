@@ -1,0 +1,9 @@
+{
+  "name": "willy-clinical-tools",
+  "description": "Willy 的跨平台臨床與簡報工具：ICD-10-CM 查碼（台灣門診情境）與簡報設計規範（基於《你的簡報就是比AI強》日比野春男）。適用於 Claude Code、Claude Chat、Cowork。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Willy",
+    "email": "b8301122@gmail.com"
+  }
+}
